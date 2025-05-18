@@ -1,5 +1,5 @@
-# <p align = "center"> Credit_Analytics <\p>
-## CAS course Machine Learning in Finance and Insurance - Credit Analytics
+# <p align = "center"> Credit Analytics <p>
+## CAS course Machine Learning in Finance and Insurance
 </center>
 
 Project for the CAS Course Machine Learning in Finance and Insurance - 2025. 
