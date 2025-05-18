@@ -1,6 +1,5 @@
-<center>
-# Credit_Analytics
-### CAS course Machine Learning in Finance and Insurance - credit analytics
+# <p align = "center"> Credit_Analytics <\p>
+## CAS course Machine Learning in Finance and Insurance - Credit Analytics
 </center>
 
 Project for the CAS Course Machine Learning in Finance and Insurance - 2025. 
@@ -11,3 +10,12 @@ individuals applying for a loan.
 
 In order to run this project, a [Colab](https://colab.research.google.com) environment is needed.
 
+## Installation 
+
+### Clone the repository 
+
+Clone this repository in a local directory typing in the command line: 
+
+```
+https://github.com/LuciaHrovatin/Credit_Analytics.git
+```
